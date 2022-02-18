@@ -8,7 +8,3 @@ for (const char of sentence) {
   }, delay += 50);
 
 }
-
-// setTimeout(() => {
-//   process.stdout.write("\n");
-// }, delay);
